@@ -1,5 +1,5 @@
-# RainngCourse
-数据库大作业，学生选课系统，前后端分离界面美观💎使用流行技术栈Vue ElementUI SpringBoot，Redis实现分布式Session，AOP记录日志由MongoDB存储，可做学习使用
+# 课程管理系统
+学生选课系统，前后端分离界面美观💎使用流行技术栈Vue ElementUI SpringBoot，Redis实现分布式Session，AOP记录日志由MongoDB存储，可做学习使用
 
 ### 在线预览地址
 http://39.101.133.125:1007
@@ -37,16 +37,15 @@ http://39.101.133.125:1007
 
 ## 项目截图
 
-![登录](https://raw.githubusercontent.com/Azure99/RainngCourse/master/images/login.png)
 
-![首页](https://raw.githubusercontent.com/Azure99/RainngCourse/master/images/front.png)
+![登录](images/login.png)
 
-![增删查改](https://raw.githubusercontent.com/Azure99/RainngCourse/master/images/crud.png)
+![首页](images/front.png)
 
-![学生选课](https://raw.githubusercontent.com/Azure99/RainngCourse/master/images/select-course.png)
+![增删查改](images/crud.png)
 
-![课程表](https://raw.githubusercontent.com/Azure99/RainngCourse/master/images/timetable.png)
+![学生选课](images/select-course.png)
 
-![权限修改](https://raw.githubusercontent.com/Azure99/RainngCourse/master/images/permission.png)
+![课程表](images/timetable.png)
 
-![日志](https://raw.githubusercontent.com/Azure99/RainngCourse/master/images/log.png)
+![权限修改](images/permission.png)
